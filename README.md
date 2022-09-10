@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a student
 - 🌱 I’m currently learning SystemVerilog(HDL)
 - 🤔 I’m looking for help with Flutter Development
-- 💬 Ask me about JAVA,Python,QBasic,C,C++,MySQL
+- 💬 Ask me about JAVA,Python,QBasic,C,C++,MySQL,MATLAB
 - 📫 How to reach me:garimabajpayi19@gmail.com
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: Im a sucker for cleanliness XD!

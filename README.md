@@ -1,4 +1,4 @@
-### HOLA! GARIMA HERE 👋
+### Hola! Garima here 👋
 
 - 🔭 I’m currently a student
 - 🌱 I’m currently learning SystemVerilog(HDL)

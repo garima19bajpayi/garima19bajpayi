@@ -1,5 +1,11 @@
 ### HOLA! GARIMA HERE 👋
 
+- 🔭 I’m currently a student
+- 🌱 I’m currently learning SystemVerilog(HDL)
+- 💬 Ask me about JAVA, Python, QBasic, C, C++, MySQL, MATLAB
+- 📫 How to reach me: [garimabajpayi19@gmail.com](mailto:garimabajpayi19@gmail.com) 
+- 😄 Pronouns: She/Her/Hers
+
 <!--
 **garima19bajpayi/garima19bajpayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

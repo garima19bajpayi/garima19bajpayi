@@ -1,7 +1,7 @@
 ### Hola! Garima here 👋
 
 - 🔭 I’m currently a student
-- 💬 Ask me about JAVA, Python, QBasic, C, C++, MySQL, MATLAB
+- 💬 Ask me about JAVA, Python, QBasic, C, C++, MySQL, MATLAB,SystemVerilog
 - 📫 How to reach me: [garimabajpayi19@gmail.com](mailto:garimabajpayi19@gmail.com) 
 - 😄 Pronouns: She/Her/Hers
 
@@ -10,10 +10,4 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently a student
-- 🤔 I’m looking for help with Flutter Development
-- 💬 Ask me about JAVA,Python,QBasic,C,C++,MySQL,MATLAB
-- 📫 How to reach me:garimabajpayi19@gmail.com
-- 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: Im a sucker for cleanliness XD!
--->
+-
